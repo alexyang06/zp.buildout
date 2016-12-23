@@ -25,3 +25,6 @@ Your branch is ahead of 'origin/master' by 1 commit.
   (use "git push" to publish your local commits)
 
 (5) git push origin master
+
+
+(3)-1 git merge origin master
